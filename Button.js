@@ -17,3 +17,13 @@ function red()
 {
 	document.getElementById("color").style.color="red";
 }
+
+function gazelle()
+{
+  document.getElementById("animal").innerHTML="gazelle";
+}
+
+function blue()
+{
+  document.getElementById("color").style.color="blue";
+}

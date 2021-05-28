@@ -2,3 +2,9 @@ p {
 	font-family: Arial;
 	color: red;
 }
+#greenbutton{background-color: green; color: white; font-weight: 800;}
+#catbutton{background-color: rgb(204, 167, 122); color: darkblue; font-weight: 800;}
+#redbutton{background-color: red; color: black; font-weight: 800;} 
+#dogbutton{background-color: cadetblue; color: brown; font-weight: 800}
+#bluebutton{background-color: darkseagreen; color: rgb(75, 72, 72); font-weight: 800}
+#gazellebutton{background-color: #A5C7E2; color: darkgreen; font-weight: 800}
